@@ -50,10 +50,6 @@ Gmail / Calendar ───┤
 
 TypeScript · Next.js (App Router) · Auth.js · Supabase / Postgres (RLS, atomic `security definer` functions) · Zod · Electron · LiveKit voice · Claude Agent SDK · Ollama · launchd · Vitest
 
-## O projektu
-
-JARVIS je privatni AI OS za moj Mac: dashboard sa kalendarom i mejlom, red AI zadataka koje izvršava lokalni bridge, i Electron aplikacija sa glasom, ekranom, kamerom i „drugim mozgom“. Poseban fokus je bezbednost: nepoznati alati su zabranjeni, sadržaj mejlova i weba je nepouzdan, a posledične akcije se nikad ne uključuju tiho.
-
 ## About this repository
 
 JARVIS is a personal project. This public repository is a showcase containing a description only — it does **not** contain source code, credentials, personal data or build files.
